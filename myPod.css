@@ -1,0 +1,17 @@
+body {
+	background-color: #eaf3da;
+	font-family: sans-serif;
+	font-size: small;
+}
+
+blockquote {
+	font-style: italic;
+}
+
+h1 {
+	font-size: 170%;
+}
+
+h2 {
+	font-size: 130%;
+}
